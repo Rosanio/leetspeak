@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="AppTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-02-08T18:37:22" hostname="epicodus-65.local" time="0.002">
+<testsuite name="AppTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2016-02-08T19:16:13" hostname="epicodus-65.local" time="0.003">
   <properties/>
   <testcase name="isLeetSpeak_forReplaceIWith1_1" classname="AppTest" time="0.001"/>
-  <testcase name="isLeetSpeak_forReplaceEWith3_3" classname="AppTest" time="0.001"/>
+  <testcase name="isLeetSpeak_forReplaceSWithZ_Z" classname="AppTest" time="0.0"/>
+  <testcase name="isLeetSpeak_forReplaceEWith3_3" classname="AppTest" time="0.0"/>
   <testcase name="isLeetSpeak_forReplaceOWith0_0" classname="AppTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

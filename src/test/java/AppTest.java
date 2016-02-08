@@ -20,4 +20,10 @@ public class AppTest {
     App leetspeak = new App();
     assertEquals("1cing", App.isLeetSpeak("Icing"));
   }
+
+  @Test
+  public void isLeetSpeak_forReplaceSWithZ_Z() {
+    App leetspeak = new App();
+    assertEquals("1 scr3am y0u scr3am w3 all scr3am f0r razpb3rry ic3 cr3am!", App.isLeetSpeak("I scream you scream we all scream for raspberry ice cream!"));
+  }
 }
