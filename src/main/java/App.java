@@ -13,6 +13,7 @@ public class App {
     word = word.replaceAll("E","3");
     word = word.replaceAll("o", "0");
     word = word.replaceAll("O", "0");
+    word = word.replaceAll("I", "1");
     return word;
   }
 
